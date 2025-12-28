@@ -69,7 +69,7 @@ const urlParams = new URLSearchParams(queryString);
 
 var ejes=0
 var stick = 1;
-var invertX = 1;
+var invertX = 0;
 var invertY = 1;
 
 nUp = parseInt(nUp * 1000);
